@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sơn (Pronounce Shawn)
+### Hi there 👋 I'm Sơn (Pronounce Sean)
 - 🔭 I'm currently working as a DevOps Engineer based in Ha Noi Viet Nam
 - 👯 I help the company moving to Cloud 
 - 🌱 I'm responsible for the availability of the company infrastructure 
