@@ -8,7 +8,8 @@
 
 ## Contact me
 My Resume  
-[https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white](https://sonthanhcao.github.io/soncao-resume/SonCao_SRE.pdf)  
+
+[<img alt="Resume" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />]([https://github.com/sonthanhcao](https://sonthanhcao.github.io/soncao-resume/SonCao_SRE.pdf))
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/sonthanhcao) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/caothanhson) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&source=mailto&to=[caothanhson48@gmail.com]
 )
 
